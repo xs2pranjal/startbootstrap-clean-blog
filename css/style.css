@@ -989,3 +989,7 @@ table.api-list ul li:last-child {
 		content: "Description: "
 	}
 }
+.embedly-card-container{
+    margin-top: 28%;
+    position: relative;
+}
